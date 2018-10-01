@@ -5,6 +5,4 @@
 # Session Data files
 .RData
 .txt
-
-rsconnect/
 .Rproj.user

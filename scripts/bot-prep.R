@@ -12,6 +12,7 @@
 library(tidyverse)
 library(stringr)
 library(parallel) 
+if(!dir.exists("data/processed")) dir.create("data/processed")
 
 ## load data ==== 
 

@@ -3,6 +3,7 @@
 
 library(tidyverse)
 library(stringr)
+if(!dir.exists("data/processed")) dir.create("data/processed")
 
 ## load data ==== 
 

@@ -2,9 +2,11 @@
 
 #
 ##
-### Russian Bots Analysis
+### Russian Troll Figures and Tables
 ##
 # 
+
+if(!dir.exists("figs")) dir.create("figs")
 
 ## load packages ====
 
